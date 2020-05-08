@@ -1,0 +1,593 @@
+Last login: Fri May  8 11:32:26 on ttys006
+Welcome to fish, the friendly interactive shell
+root@Joys-MacBook-Pro /p/v/root# dyld
+root@Joys-MacBook-Pro /p/v/root# 
+ffmpeg -f avfoundation -i :6 -compression_level 12 -t 7200 EN\ 5-8.flac
+opt[0] = "ffmpeg"
+opt[1] = "-hide_banner"
+opt[2] = "-f"
+opt[3] = "avfoundation"
+opt[4] = "-i"
+opt[5] = ":6"
+opt[6] = "-compression_level"
+opt[7] = "12"
+opt[8] = "-t"
+opt[9] = "7200"
+opt[10] = "EN 5-8.flac"
+dyld: loaded: /usr/local/bin/ffmpeg
+dyld: loaded: /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
+dyld: loaded: /usr/lib/libc++.1.dylib
+dyld: loaded: /usr/lib/libSystem.B.dylib
+dyld: loaded: /System/Library/Frameworks/AVFoundation.framework/Versions/A/AVFoundation
+dyld: loaded: /System/Library/Frameworks/CoreVideo.framework/Versions/A/CoreVideo
+dyld: loaded: /System/Library/Frameworks/CoreMedia.framework/Versions/A/CoreMedia
+dyld: loaded: /System/Library/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics
+dyld: loaded: /usr/local/opt/jack/lib/libjack.0.dylib
+dyld: loaded: /System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices
+dyld: loaded: /System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit
+dyld: loaded: /usr/local/opt/openal-soft/lib/libopenal.1.dylib
+dyld: loaded: /usr/local/lib/libxcb.1.dylib
+dyld: loaded: /usr/local/lib/libXau.6.dylib
+dyld: loaded: /usr/local/lib/libxcb-shm.0.dylib
+dyld: loaded: /usr/local/lib/libxcb-shape.0.dylib
+dyld: loaded: /usr/local/lib/libxcb-xfixes.0.dylib
+dyld: loaded: /usr/local/lib/libxcb-render.0.dylib
+dyld: loaded: /opt/local/lib/libcdio_paranoia.2.dylib
+dyld: loaded: /opt/local/lib/libcdio_cdda.2.dylib
+dyld: loaded: /usr/local/lib/libcdio.16.dylib
+dyld: loaded: /usr/local/lib/libdc1394.25.dylib
+dyld: loaded: /usr/local/opt/libcaca/lib/libcaca.0.dylib
+dyld: loaded: /usr/local/lib/libz.1.dylib
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL
+dyld: loaded: /usr/local/lib/libpulse.0.dylib
+dyld: loaded: /usr/local/lib/pulseaudio/libpulsecommon-12.2.dylib
+dyld: loaded: /usr/local/opt/sdl2/lib/libSDL2-2.0.0.dylib
+dyld: loaded: /opt/local/lib/libiconv.2.dylib
+dyld: loaded: /System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox
+dyld: loaded: /System/Library/Frameworks/ForceFeedback.framework/Versions/A/ForceFeedback
+dyld: loaded: /usr/lib/libobjc.A.dylib
+dyld: loaded: /System/Library/Frameworks/Cocoa.framework/Versions/A/Cocoa
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Carbon
+dyld: loaded: /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+dyld: loaded: /System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore
+dyld: loaded: /System/Library/Frameworks/Metal.framework/Versions/A/Metal
+dyld: loaded: /usr/local/opt/libbs2b/lib/libbs2b.0.dylib
+dyld: loaded: /usr/local/lib/liblilv-0.0.dylib
+dyld: loaded: /usr/local/lib/libsratom-0.0.dylib
+dyld: loaded: /usr/local/lib/libsord-0.0.dylib
+dyld: loaded: /usr/local/lib/libserd-0.0.dylib
+dyld: loaded: /usr/local/opt/rubberband/lib/librubberband.2.dylib
+dyld: loaded: /usr/local/lib/libmysofa.0.dylib
+dyld: loaded: /usr/local/opt/fribidi/lib/libfribidi.0.dylib
+dyld: loaded: /usr/local/opt/lensfun/lib/liblensfun.2.dylib
+dyld: loaded: /usr/local/opt/glib/lib/libglib-2.0.0.dylib
+dyld: loaded: /usr/local/lib/libintl.8.dylib
+dyld: loaded: /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+dyld: loaded: /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit
+dyld: loaded: /usr/local/opt/pcre/lib/libpcre.1.dylib
+dyld: loaded: /usr/local/lib/libtesseract.5.dylib
+dyld: loaded: /usr/lib/libcurl.4.dylib
+dyld: loaded: /System/Library/Frameworks/OpenCL.framework/Versions/A/OpenCL
+dyld: loaded: /usr/local/opt/leptonica/lib/liblept.5.dylib
+dyld: loaded: /usr/local/opt/libpng/lib/libpng16.16.dylib
+dyld: loaded: /usr/local/opt/jpeg/lib/libjpeg.9.dylib
+dyld: loaded: /usr/local/opt/openjpeg/lib/libopenjp2.7.dylib
+dyld: loaded: /usr/local/opt/giflib/lib/libgif.dylib
+dyld: loaded: /usr/local/opt/libtiff/lib/libtiff.5.dylib
+dyld: loaded: /usr/local/opt/webp/lib/libwebp.7.dylib
+dyld: loaded: /usr/local/opt/webp/lib/libwebpmux.3.dylib
+dyld: loaded: /usr/local/lib/libopencv_dnn.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_highgui.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_ml.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_objdetect.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_shape.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_stitching.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_superres.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_videostab.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_calib3d.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_videoio.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_imgcodecs.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_features2d.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_video.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_photo.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_imgproc.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_flann.3.4.dylib
+dyld: loaded: /usr/local/lib/libopencv_core.3.4.dylib
+dyld: loaded: /usr/local/opt/libass/lib/libass.9.dylib
+dyld: loaded: /usr/local/opt/harfbuzz/lib/libharfbuzz.0.dylib
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices
+dyld: loaded: /usr/local/opt/graphite2/lib/libgraphite2.3.dylib
+dyld: loaded: /usr/local/opt/freetype/lib/libfreetype.6.dylib
+dyld: loaded: /usr/lib/libbz2.1.0.dylib
+dyld: loaded: /usr/local/opt/libvidstab/lib/libvidstab.1.1.dylib
+dyld: loaded: /usr/local/opt/zeromq/lib/libzmq.5.dylib
+dyld: loaded: /usr/local/lib/libzimg.2.dylib
+dyld: loaded: /System/Library/Frameworks/CoreImage.framework/Versions/A/CoreImage
+dyld: loaded: /usr/local/opt/fontconfig/lib/libfontconfig.1.dylib
+dyld: loaded: /usr/lib/libexpat.1.dylib
+dyld: loaded: /usr/local/opt/libtensorflow/lib/libtensorflow.so.2
+dyld: loaded: /usr/lib/libxml2.2.dylib
+dyld: loaded: /usr/lib/libicucore.A.dylib
+dyld: loaded: /usr/local/opt/game-music-emu/lib/libgme.0.dylib
+dyld: loaded: /usr/local/opt/libmodplug/lib/libmodplug.1.dylib
+dyld: loaded: /usr/local/opt/libopenmpt/lib/libopenmpt.0.dylib
+dyld: loaded: /usr/local/opt/mpg123/lib/libmpg123.0.dylib
+dyld: loaded: /usr/local/opt/libvorbis/lib/libvorbis.0.dylib
+dyld: loaded: /usr/local/opt/libogg/lib/libogg.0.dylib
+dyld: loaded: /usr/local/opt/vapoursynth/lib/libvapoursynth-script.0.dylib
+dyld: loaded: /usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/Python
+dyld: loaded: /usr/local/opt/vapoursynth/lib/libvapoursynth.dylib
+dyld: loaded: /usr/local/opt/libgcrypt/lib/libgcrypt.20.dylib
+dyld: loaded: /usr/local/opt/libgpg-error/lib/libgpg-error.0.dylib
+dyld: loaded: /usr/local/opt/chromaprint/lib/libchromaprint.1.dylib
+dyld: loaded: /usr/local/opt/libbluray/lib/libbluray.2.dylib
+dyld: loaded: /usr/local/lib/libssl.1.0.0.dylib
+dyld: loaded: /usr/local/lib/libcrypto.1.0.0.dylib
+dyld: loaded: /usr/local/opt/rtmpdump/lib/librtmp.1.dylib
+dyld: loaded: /usr/local/lib/libsrt.1.dylib
+dyld: loaded: /usr/local/opt/libssh/lib/libssh.4.dylib
+dyld: loaded: /private/var/root/samba/bin/default/source3/libsmb/libsmbclient.inst.dylib
+dyld: loaded: /usr/local/opt/xz/lib/liblzma.5.dylib
+dyld: loaded: /usr/local/lib/libaribb24.0.dylib
+dyld: loaded: /usr/local/lib/libcelt0.2.dylib
+dyld: loaded: /usr/local/opt/dav1d/lib/libdav1d.2.dylib
+dyld: loaded: /usr/local/opt/opencore-amr/lib/libopencore-amrwb.0.dylib
+dyld: loaded: /usr/local/opt/librsvg/lib/librsvg-2.2.dylib
+dyld: loaded: /usr/local/opt/gdk-pixbuf/lib/libgdk_pixbuf-2.0.0.dylib
+dyld: loaded: /usr/local/opt/glib/lib/libgio-2.0.0.dylib
+dyld: loaded: /usr/lib/libresolv.9.dylib
+dyld: loaded: /usr/local/opt/glib/lib/libgmodule-2.0.0.dylib
+dyld: loaded: /usr/local/opt/cairo/lib/libcairo.2.dylib
+dyld: loaded: /usr/local/opt/glib/lib/libgobject-2.0.0.dylib
+dyld: loaded: /usr/local/opt/libffi/lib/libffi.6.dylib
+dyld: loaded: /usr/local/opt/pixman/lib/libpixman-1.0.dylib
+dyld: loaded: /usr/local/lib/libzvbi.0.dylib
+dyld: loaded: /usr/local/opt/snappy/lib/libsnappy.1.dylib
+dyld: loaded: /usr/local/lib/libcodec2.0.8.dylib
+dyld: loaded: /usr/local/opt/fdk-aac/lib/libfdk-aac.2.dylib
+dyld: loaded: /usr/local/opt/libgsm/lib/libgsm.1.0.13.dylib
+dyld: loaded: /usr/local/opt/libilbc/lib/libilbc.2.dylib
+dyld: loaded: /usr/local/opt/lame/lib/libmp3lame.0.dylib
+dyld: loaded: /usr/local/opt/opencore-amr/lib/libopencore-amrnb.0.dylib
+dyld: loaded: /usr/local/opt/opus/lib/libopus.0.dylib
+dyld: loaded: /usr/local/lib/libshine.3.dylib
+dyld: loaded: /usr/local/opt/speex/lib/libspeex.1.dylib
+dyld: loaded: /usr/local/opt/theora/lib/libtheoraenc.1.dylib
+dyld: loaded: /usr/local/opt/theora/lib/libtheoradec.1.dylib
+dyld: loaded: /usr/local/lib/libtwolame.0.dylib
+dyld: loaded: /usr/local/lib/libvo-amrwbenc.0.dylib
+dyld: loaded: /usr/local/opt/libvorbis/lib/libvorbisenc.2.dylib
+dyld: loaded: /usr/local/lib/libwavpack.1.dylib
+dyld: loaded: /usr/local/opt/x264/lib/libx264.155.dylib
+dyld: loaded: /usr/local/opt/x265/lib/libx265.179.dylib
+dyld: loaded: /usr/local/opt/openh264/lib/libopenh264.5.dylib
+dyld: loaded: /usr/local/opt/kvazaar/lib/libkvazaar.4.dylib
+dyld: loaded: /System/Library/Frameworks/VideoToolbox.framework/Versions/A/VideoToolbox
+dyld: loaded: /usr/local/opt/libsoxr/lib/libsoxr.0.dylib
+dyld: loaded: /usr/lib/libauto.dylib
+dyld: loaded: /System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration
+dyld: loaded: /usr/lib/libarchive.2.dylib
+dyld: loaded: /usr/lib/libDiagnosticMessagesClient.dylib
+dyld: loaded: /usr/lib/libz.1.dylib
+dyld: loaded: /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork
+dyld: loaded: /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration
+dyld: loaded: /usr/lib/liblangid.dylib
+dyld: loaded: /usr/lib/libCRFSuite.dylib
+dyld: loaded: /usr/lib/libc++abi.dylib
+dyld: loaded: /usr/lib/system/libcache.dylib
+dyld: loaded: /usr/lib/system/libcommonCrypto.dylib
+dyld: loaded: /usr/lib/system/libcompiler_rt.dylib
+dyld: loaded: /usr/lib/system/libcopyfile.dylib
+dyld: loaded: /usr/lib/system/libcorecrypto.dylib
+dyld: loaded: /usr/lib/system/libdispatch.dylib
+dyld: loaded: /usr/lib/system/libdyld.dylib
+dyld: loaded: /usr/lib/system/libkeymgr.dylib
+dyld: loaded: /usr/lib/system/liblaunch.dylib
+dyld: loaded: /usr/lib/system/libmacho.dylib
+dyld: loaded: /usr/lib/system/libquarantine.dylib
+dyld: loaded: /usr/lib/system/libremovefile.dylib
+dyld: loaded: /usr/lib/system/libsystem_asl.dylib
+dyld: loaded: /usr/lib/system/libsystem_blocks.dylib
+dyld: loaded: /usr/lib/system/libsystem_c.dylib
+dyld: loaded: /usr/lib/system/libsystem_configuration.dylib
+dyld: loaded: /usr/lib/system/libsystem_coreservices.dylib
+dyld: loaded: /usr/lib/system/libsystem_darwin.dylib
+dyld: loaded: /usr/lib/system/libsystem_dnssd.dylib
+dyld: loaded: /usr/lib/system/libsystem_info.dylib
+dyld: loaded: /usr/lib/system/libsystem_m.dylib
+dyld: loaded: /usr/lib/system/libsystem_malloc.dylib
+dyld: loaded: /usr/lib/system/libsystem_network.dylib
+dyld: loaded: /usr/lib/system/libsystem_networkextension.dylib
+dyld: loaded: /usr/lib/system/libsystem_notify.dylib
+dyld: loaded: /usr/lib/system/libsystem_sandbox.dylib
+dyld: loaded: /usr/lib/system/libsystem_secinit.dylib
+dyld: loaded: /usr/lib/system/libsystem_kernel.dylib
+dyld: loaded: /usr/lib/system/libsystem_platform.dylib
+dyld: loaded: /usr/lib/system/libsystem_pthread.dylib
+dyld: loaded: /usr/lib/system/libsystem_symptoms.dylib
+dyld: loaded: /usr/lib/system/libsystem_trace.dylib
+dyld: loaded: /usr/lib/system/libunwind.dylib
+dyld: loaded: /usr/lib/system/libxpc.dylib
+dyld: loaded: /usr/lib/closure/libclosured.dylib
+dyld: loaded: /System/Library/Frameworks/Security.framework/Versions/A/Security
+dyld: loaded: /usr/lib/libenergytrace.dylib
+dyld: loaded: /usr/lib/libbsm.0.dylib
+dyld: loaded: /usr/lib/system/libkxld.dylib
+dyld: loaded: /usr/lib/libOpenScriptingUtil.dylib
+dyld: loaded: /usr/lib/libcoretls.dylib
+dyld: loaded: /usr/lib/libcoretls_cfhelpers.dylib
+dyld: loaded: /usr/lib/libpam.2.dylib
+dyld: loaded: /usr/lib/libsqlite3.dylib
+dyld: loaded: /usr/lib/libxar.1.dylib
+dyld: loaded: /usr/lib/liblzma.5.dylib
+dyld: loaded: /usr/lib/libnetwork.dylib
+dyld: loaded: /usr/lib/libapple_nghttp2.dylib
+dyld: loaded: /usr/lib/libpcap.A.dylib
+dyld: loaded: /usr/lib/libboringssl.dylib
+dyld: loaded: /usr/lib/libusrtcp.dylib
+dyld: loaded: /usr/lib/libapple_crypto.dylib
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/FSEvents
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+dyld: loaded: /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SharedFileList.framework/Versions/A/SharedFileList
+dyld: loaded: /System/Library/Frameworks/NetFS.framework/Versions/A/NetFS
+dyld: loaded: /System/Library/PrivateFrameworks/NetAuth.framework/Versions/A/NetAuth
+dyld: loaded: /System/Library/PrivateFrameworks/login.framework/Versions/A/Frameworks/loginsupport.framework/Versions/A/loginsupport
+dyld: loaded: /System/Library/PrivateFrameworks/TCC.framework/Versions/A/TCC
+dyld: loaded: /usr/lib/libmecabra.dylib
+dyld: loaded: /System/Library/Frameworks/CoreText.framework/Versions/A/CoreText
+dyld: loaded: /System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO
+dyld: loaded: /System/Library/Frameworks/ColorSync.framework/Versions/A/ColorSync
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSyncLegacy.framework/Versions/A/ColorSyncLegacy
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+dyld: loaded: /System/Library/PrivateFrameworks/SkyLight.framework/Versions/A/SkyLight
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate
+dyld: loaded: /System/Library/Frameworks/CoreDisplay.framework/Versions/A/CoreDisplay
+dyld: loaded: /System/Library/Frameworks/IOSurface.framework/Versions/A/IOSurface
+dyld: loaded: /System/Library/PrivateFrameworks/MultitouchSupport.framework/Versions/A/MultitouchSupport
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBNNS.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libQuadrature.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLinearAlgebra.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libSparse.dylib
+dyld: loaded: /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libSparseBLAS.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/GPUWrangler.framework/Versions/A/GPUWrangler
+dyld: loaded: /System/Library/PrivateFrameworks/IOAccelerator.framework/Versions/A/IOAccelerator
+dyld: loaded: /System/Library/PrivateFrameworks/IOPresentment.framework/Versions/A/IOPresentment
+dyld: loaded: /System/Library/PrivateFrameworks/DSExternalDisplay.framework/Versions/A/DSExternalDisplay
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreFSCache.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/GraphVisualizer.framework/Versions/A/GraphVisualizer
+dyld: loaded: /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/MetalPerformanceShaders
+dyld: loaded: /usr/lib/libFosl_dynamic.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/FaceCore.framework/Versions/A/FaceCore
+dyld: loaded: /usr/lib/libcompression.dylib
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontParser.dylib
+dyld: loaded: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontRegistry.dylib
+dyld: loaded: /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib
+dyld: loaded: /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib
+dyld: loaded: /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib
+dyld: loaded: /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib
+dyld: loaded: /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib
+dyld: loaded: /System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/AppleJPEG.framework/Versions/A/AppleJPEG
+dyld: loaded: /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSCore.framework/Versions/A/MPSCore
+dyld: loaded: /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSImage.framework/Versions/A/MPSImage
+dyld: loaded: /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSNeuralNetwork.framework/Versions/A/MPSNeuralNetwork
+dyld: loaded: /System/Library/Frameworks/MetalPerformanceShaders.framework/Frameworks/MPSMatrix.framework/Versions/A/MPSMatrix
+dyld: loaded: /System/Library/PrivateFrameworks/MetalTools.framework/Versions/A/MetalTools
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib
+dyld: loaded: /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreVMClient.dylib
+dyld: loaded: /usr/lib/libcups.2.dylib
+dyld: loaded: /System/Library/Frameworks/Kerberos.framework/Versions/A/Kerberos
+dyld: loaded: /System/Library/Frameworks/GSS.framework/Versions/A/GSS
+dyld: loaded: /usr/lib/libiconv.2.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/Heimdal.framework/Versions/A/Heimdal
+dyld: loaded: /usr/lib/libheimdal-asn1.dylib
+dyld: loaded: /System/Library/Frameworks/OpenDirectory.framework/Versions/A/OpenDirectory
+dyld: loaded: /System/Library/PrivateFrameworks/CommonAuth.framework/Versions/A/CommonAuth
+dyld: loaded: /System/Library/Frameworks/OpenDirectory.framework/Versions/A/Frameworks/CFOpenDirectory.framework/Versions/A/CFOpenDirectory
+dyld: loaded: /System/Library/Frameworks/SecurityFoundation.framework/Versions/A/SecurityFoundation
+dyld: loaded: /System/Library/PrivateFrameworks/APFS.framework/Versions/A/APFS
+dyld: loaded: /usr/lib/libutil.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/AppleSauce.framework/Versions/A/AppleSauce
+dyld: loaded: /System/Library/PrivateFrameworks/LinguisticData.framework/Versions/A/LinguisticData
+dyld: loaded: /usr/lib/libmarisa.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/Lexicon.framework/Versions/A/Lexicon
+dyld: loaded: /usr/lib/libChineseTokenizer.dylib
+dyld: loaded: /usr/lib/libcmph.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/LanguageModeling.framework/Versions/A/LanguageModeling
+dyld: loaded: /System/Library/Frameworks/CoreData.framework/Versions/A/CoreData
+dyld: loaded: /System/Library/PrivateFrameworks/CoreEmoji.framework/Versions/A/CoreEmoji
+dyld: loaded: /System/Library/Frameworks/ServiceManagement.framework/Versions/A/ServiceManagement
+dyld: loaded: /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Versions/A/BackgroundTaskManagement
+dyld: loaded: /usr/lib/libxslt.1.dylib
+dyld: loaded: /System/Library/Frameworks/AVFoundation.framework/Versions/A/Frameworks/AVFAudio.framework/Versions/A/AVFAudio
+dyld: loaded: /System/Library/Frameworks/MediaToolbox.framework/Versions/A/MediaToolbox
+dyld: loaded: /System/Library/PrivateFrameworks/IntlPreferences.framework/Versions/A/IntlPreferences
+dyld: loaded: /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/CoreMediaIO
+dyld: loaded: /System/Library/PrivateFrameworks/RemoteServiceDiscovery.framework/Versions/A/RemoteServiceDiscovery
+dyld: loaded: /System/Library/PrivateFrameworks/RemoteXPC.framework/Versions/A/RemoteXPC
+dyld: loaded: /usr/lib/libspindump.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/CoreAVCHD.framework/Versions/A/CoreAVCHD
+dyld: loaded: /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/MediaAccessibility
+dyld: loaded: /System/Library/PrivateFrameworks/Mangrove.framework/Versions/A/Mangrove
+dyld: loaded: /System/Library/PrivateFrameworks/CoreAUC.framework/Versions/A/CoreAUC
+dyld: loaded: /System/Library/PrivateFrameworks/AppleVA.framework/Versions/A/AppleVA
+dyld: loaded: /System/Library/PrivateFrameworks/InternationalSupport.framework/Versions/A/InternationalSupport
+dyld: loaded: /System/Library/PrivateFrameworks/RemoteViewServices.framework/Versions/A/RemoteViewServices
+dyld: loaded: /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/UIFoundation
+dyld: loaded: /System/Library/PrivateFrameworks/DFRFoundation.framework/Versions/A/DFRFoundation
+dyld: loaded: /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv
+dyld: loaded: /usr/lib/libScreenReader.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/DataDetectorsCore.framework/Versions/A/DataDetectorsCore
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+dyld: loaded: /System/Library/PrivateFrameworks/SignpostNotification.framework/Versions/A/SignpostNotification
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+dyld: loaded: /System/Library/PrivateFrameworks/CoreUI.framework/Versions/A/CoreUI
+dyld: loaded: /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/PerformanceAnalysis
+dyld: loaded: /System/Library/PrivateFrameworks/Backup.framework/Versions/A/Backup
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+dyld: loaded: /System/Library/PrivateFrameworks/TextureIO.framework/Versions/A/TextureIO
+dyld: loaded: /usr/lib/libate.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/CrashReporterSupport.framework/Versions/A/CrashReporterSupport
+dyld: loaded: /System/Library/PrivateFrameworks/Sharing.framework/Versions/A/Sharing
+dyld: loaded: /System/Library/PrivateFrameworks/IconServices.framework/Versions/A/IconServices
+dyld: loaded: /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/AuthKit
+dyld: loaded: /System/Library/PrivateFrameworks/Apple80211.framework/Versions/A/Apple80211
+dyld: loaded: /System/Library/PrivateFrameworks/CoreUtils.framework/Versions/A/CoreUtils
+dyld: loaded: /System/Library/Frameworks/CoreWLAN.framework/Versions/A/CoreWLAN
+dyld: loaded: /System/Library/Frameworks/IOBluetooth.framework/Versions/A/IOBluetooth
+dyld: loaded: /System/Library/PrivateFrameworks/ProtocolBuffer.framework/Versions/A/ProtocolBuffer
+dyld: loaded: /System/Library/PrivateFrameworks/MobileKeyBag.framework/Versions/A/MobileKeyBag
+dyld: loaded: /System/Library/PrivateFrameworks/CorePhoneNumbers.framework/Versions/A/CorePhoneNumbers
+dyld: loaded: /System/Library/PrivateFrameworks/AppleIDAuthSupport.framework/Versions/A/AppleIDAuthSupport
+dyld: loaded: /System/Library/PrivateFrameworks/KeychainCircle.framework/Versions/A/KeychainCircle
+dyld: loaded: /System/Library/PrivateFrameworks/CoreWiFi.framework/Versions/A/CoreWiFi
+dyld: loaded: /System/Library/Frameworks/CoreBluetooth.framework/Versions/A/CoreBluetooth
+dyld: loaded: /System/Library/PrivateFrameworks/DebugSymbols.framework/Versions/A/DebugSymbols
+dyld: loaded: /System/Library/PrivateFrameworks/CoreSymbolication.framework/Versions/A/CoreSymbolication
+dyld: loaded: /System/Library/PrivateFrameworks/Symbolication.framework/Versions/A/Symbolication
+dyld: loaded: /System/Library/PrivateFrameworks/AppleFSCompression.framework/Versions/A/AppleFSCompression
+dyld: loaded: /System/Library/PrivateFrameworks/SpeechRecognitionCore.framework/Versions/A/SpeechRecognitionCore
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+dyld: loaded: /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+dyld: loaded: /usr/local/opt/berkeley-db/lib/libdb-18.1.dylib
+dyld: loaded: /usr/local/opt/openssl@1.1/lib/libssl.1.1.dylib
+dyld: loaded: /usr/local/opt/openssl@1.1/lib/libcrypto.1.1.dylib
+dyld: loaded: /opt/local/lib/libcdio.19.dylib
+dyld: loaded: /usr/local/opt/libusb/lib/libusb-1.0.0.dylib
+dyld: loaded: /usr/lib/libncurses.5.4.dylib
+dyld: loaded: /opt/X11/lib/libGL.1.dylib
+dyld: loaded: /opt/X11/lib/libGLU.1.dylib
+dyld: loaded: /opt/X11/lib/libglut.3.dylib
+dyld: loaded: /opt/X11/lib/libXplugin.1.dylib
+dyld: loaded: /opt/X11/lib/libglapi.0.dylib
+dyld: loaded: /opt/X11/lib/libXdamage.1.dylib
+dyld: loaded: /opt/X11/lib/libXfixes.3.dylib
+dyld: loaded: /opt/X11/lib/libX11-xcb.1.dylib
+dyld: loaded: /opt/X11/lib/libxcb-glx.0.dylib
+dyld: loaded: /opt/X11/lib/libXxf86vm.1.dylib
+dyld: loaded: /opt/X11/lib/libXext.6.dylib
+dyld: loaded: /opt/X11/lib/libX11.6.dylib
+dyld: loaded: /opt/X11/lib/libxcb.1.dylib
+dyld: loaded: /opt/X11/lib/libXau.6.dylib
+dyld: loaded: /opt/X11/lib/libXdmcp.6.dylib
+dyld: loaded: /usr/lib/libstdc++.6.0.9.dylib
+dyld: loaded: /opt/X11/lib/libXi.6.dylib
+dyld: loaded: /opt/X11/lib/libXrandr.2.dylib
+dyld: loaded: /opt/X11/lib/libXrender.1.dylib
+dyld: loaded: /usr/local/opt/gettext/lib/libintl.8.dylib
+dyld: loaded: /usr/local/opt/gdbm/lib/libgdbm.6.dylib
+dyld: loaded: /usr/local/opt/libsndfile/lib/libsndfile.1.dylib
+dyld: loaded: /usr/local/opt/flac/lib/libFLAC.8.dylib
+dyld: loaded: /usr/lib/libcrypto.35.dylib
+dyld: loaded: /usr/lib/libssl.35.dylib
+dyld: loaded: /System/Library/Frameworks/LDAP.framework/Versions/A/LDAP
+dyld: loaded: /System/Library/PrivateFrameworks/TrustEvaluationAgent.framework/Versions/A/TrustEvaluationAgent
+dyld: loaded: /usr/lib/libsasl2.2.dylib
+dyld: loaded: /System/Library/PrivateFrameworks/CoreDaemon.framework/Versions/B/CoreDaemon
+dyld: loaded: /System/Library/PrivateFrameworks/AppleSRP.framework/Versions/A/AppleSRP
+dyld: loaded: /usr/local/Cellar/libtensorflow/2.0.0/lib/libtensorflow_framework.2.dylib
+dyld: loaded: /usr/local/opt/zimg/lib/libzimg.2.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/librpc/libndr.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/ldap/libcli-ldap-common-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/liblibsmb-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libasn1util-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libkrb5-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/liblibcli-lsa3-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libsys-rw-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/security/libsamba-security-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/talloc/libtalloc.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/krb5_wrap/libkrb5samba-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libiov-buf-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/addns/libaddns-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libmsrpc3-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libsmbconf.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/libsamba-sockets-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libCHARSET3-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libsamba-util.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libgssapi-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/replace/libreplace-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/cldap/libcli-cldap-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libutil-tdb-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/util/libsamba-errors.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/tevent/libtevent.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/ldb/libldb.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libutil-cmdline-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libgse-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/smb/libcli-smb-common-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/auth/gensec/libgensec-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/auth/libcliauth-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libroken-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libhx509-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libasn1-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libheimbase-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libcom_err-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libwind-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/heimdal_build/libhcrypto-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/librpc/libdcerpc-samba-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/dns/libclidns-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/librpc/libdcerpc-binding.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/librpc/libndr-nbt.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/dbwrap/libdbwrap-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/auth/credentials/libsamba-credentials.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/librpc/libndr-samba-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/param/libsamba-hostconfig.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/librpc/libndr-standard.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/nsswitch/libwbclient/libwbclient.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libtevent-util.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/librpc/libndr-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/registry/libutil-reg-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libmessages-util-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libsamba3-util-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libserver-id-db-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libtalloc-report-printf-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libsocket-blocking-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libmessages-dgm-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/socket/libinterfaces-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libsmbd-shim-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libsamba-cluster-support-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/lib/events/libevents-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libgenrand-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libutil-setid-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libsamba-debug-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libtime-basic-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/libcli/ldap/libcli-ldap-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/tdb/libtdb.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source3/libsecrets3-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/smb/libsmb-transport-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/auth/kerberos/libauthkrb5-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libsamba-modules-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/dsdb/libsamdb.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/tdb_wrap/libtdb-wrap-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/ldb-samba/libldbsamba-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/dsdb/libsamdb-common-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/librpc/libndr-krb5pac.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/param/libserver-role-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/nsswitch/libwinbind-client-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/lib/util/libmsghdr-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/lib/socket/libnetif-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libcli/nbt/libcli-nbt-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/auth/libcommon-auth-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/libds/common/libflag-mapping-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/lib/messaging/libMESSAGING-SEND-samba4.dylib
+dyld: loaded: /usr/local/Cellar/samba/samba-4.12.0/bin/default/source4/cluster/libcluster-samba4.dylib
+dyld: loaded: /usr/local/opt/jansson/lib/libjansson.4.dylib
+dyld: loaded: /usr/local/opt/gnutls/lib/libgnutls.30.dylib
+dyld: loaded: /usr/local/opt/icu4c/lib/libicui18n.64.dylib
+dyld: loaded: /usr/local/opt/icu4c/lib/libicudata.64.dylib
+dyld: loaded: /usr/local/opt/icu4c/lib/libicuuc.64.dylib
+dyld: loaded: /usr/local/opt/p11-kit/lib/libp11-kit.0.dylib
+dyld: loaded: /usr/local/opt/libidn2/lib/libidn2.0.dylib
+dyld: loaded: /usr/local/opt/libunistring/lib/libunistring.2.dylib
+dyld: loaded: /usr/local/opt/libtasn1/lib/libtasn1.6.dylib
+dyld: loaded: /usr/local/opt/nettle/lib/libnettle.6.dylib
+dyld: loaded: /usr/local/opt/nettle/lib/libhogweed.4.dylib
+dyld: loaded: /usr/local/opt/gmp/lib/libgmp.10.dylib
+dyld: loaded: /usr/local/opt/cairo/lib/libcairo-gobject.2.dylib
+dyld: loaded: /usr/local/opt/pango/lib/libpangocairo-1.0.0.dylib
+dyld: loaded: /usr/local/opt/pango/lib/libpangoft2-1.0.0.dylib
+dyld: loaded: /usr/local/opt/pango/lib/libpango-1.0.0.dylib
+dyld: loaded: /usr/local/opt/libcroco/lib/libcroco-0.6.3.dylib
+dyld: loaded: /System/Library/CoreServices/Encodings/libSimplifiedChineseConverter.dylib
+Total pre-main time: 938.43 milliseconds (100.0%)
+         dylib loading time: 450.43 milliseconds (47.9%)
+        rebase/binding time:  85.32 milliseconds (9.0%)
+            ObjC setup time:   9.36 milliseconds (0.9%)
+           initializer time: 393.20 milliseconds (41.8%)
+           slowest intializers :
+libtensorflow_framework.2.dylib :  44.26 milliseconds (4.7%)
+            libtensorflow.so.2 : 263.34 milliseconds (28.0%)
+
+  total time: 1.0 seconds (100.0%)
+  total images loaded:  500 (251 from dyld shared cache)
+  total segments mapped: 742, into 98568 pages with 1407 pages pre-fetched
+  total images loading time: 450.43 milliseconds (42.9%)
+  total load time in ObjC:   9.36 milliseconds (0.8%)
+  total debugger pause time:   0.00 milliseconds (0.0%)
+  total dtrace DOF registration time:   0.10 milliseconds (0.0%)
+  total rebase fixups:  740,359
+  total rebase fixups time:  77.27 milliseconds (7.3%)
+  total binding fixups: 89,621
+total binding symbol lookups: 433, average images searched per symbol: 1.0
+  total binding fixups time: 111.82 milliseconds (10.6%)
+  total weak binding fixups time:   5.96 milliseconds (0.5%)
+  total redo shared cached bindings time: 109.74 milliseconds (10.4%)
+  total bindings lazily fixed up: 0 of 415
+  total time in initializers and ObjC +load: 393.20 milliseconds (37.5%)
+                         libSystem.B.dylib :   1.35 milliseconds (0.1%)
+                            CoreFoundation :   1.25 milliseconds (0.1%)
+                                  Kerberos :   1.33 milliseconds (0.1%)
+                       libcrypto.1.1.dylib :   1.20 milliseconds (0.1%)
+                         libopenal.1.dylib :   3.34 milliseconds (0.3%)
+                             libGL.1.dylib :   5.96 milliseconds (0.5%)
+                       libglib-2.0.0.dylib :   2.83 milliseconds (0.2%)
+                        liblensfun.2.dylib :   2.11 milliseconds (0.2%)
+                      libtesseract.5.dylib :   6.57 milliseconds (0.6%)
+                  libopencv_core.3.4.dylib :   3.09 milliseconds (0.2%)
+               libopencv_imgproc.3.4.dylib :   2.33 milliseconds (0.2%)
+                   libopencv_dnn.3.4.dylib :   8.23 milliseconds (0.7%)
+             libopencv_imgcodecs.3.4.dylib :   4.50 milliseconds (0.4%)
+           libtensorflow_framework.2.dylib :  44.26 milliseconds (4.2%)
+                        libtensorflow.so.2 : 263.34 milliseconds (25.1%)
+                        libmodplug.1.dylib :   1.63 milliseconds (0.1%)
+                        libopenmpt.0.dylib :  12.23 milliseconds (1.1%)
+                      libvapoursynth.dylib :   1.80 milliseconds (0.1%)
+                      libgpg-error.0.dylib :   1.84 milliseconds (0.1%)
+                            libsrt.1.dylib :   2.64 milliseconds (0.2%)
+                            libssh.4.dylib :   2.02 milliseconds (0.1%)
+                        libgnutls.30.dylib :   3.58 milliseconds (0.3%)
+                       libpixman-1.0.dylib :   1.57 milliseconds (0.1%)
+                    libgobject-2.0.0.dylib :   1.95 milliseconds (0.1%)
+                         libx265.179.dylib :   2.28 milliseconds (0.2%)
+                                    ffmpeg :   1.91 milliseconds (0.1%)
+total symbol trie searches:    469226
+total symbol table binary searches:    433
+total images defining weak symbols:  48
+total images using weak symbols:  120
+dyld: loaded: /System/Library/Extensions/AppleHDA.kext/Contents/PlugIns/AppleHDAHALPlugIn.bundle/Contents/MacOS/AppleHDAHALPlugIn
+dyld: loaded: /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/MacOS/VDC
+dyld: loaded: /System/Library/Frameworks/CoreMediaIO.framework/Resources/CMIOUnits.bundle/Contents/MacOS/CMIOUnits
+dyld: loaded: /System/Library/PrivateFrameworks/FWAVC.framework/Versions/A/FWAVC
+dyld: loaded: /System/Library/Components/CoreAudio.component/Contents/MacOS/CoreAudio
+dyld: loaded: /System/Library/PrivateFrameworks/CoreServicesInternal.framework/Versions/A/CoreServicesInternal
+Input #0, avfoundation, from ':6':
+  Duration: N/A, start: 57738.993741, bitrate: 2822 kb/s
+    Stream #0:0: Audio: pcm_f32le, 44100 Hz, stereo, flt, 2822 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_f32le (native) -> flac (native))
+Press [q] to stop, [?] for help
+[flac @ 0x7fbd5f88a600] encoding as 24 bits-per-sample
+Output #0, flac, to 'EN 5-8.flac':
+  Metadata:
+    encoder         : Lavf58.38.101
+    Stream #0:0: Audio: flac, 44100 Hz, stereo, s32 (24 bit), 128 kb/s
+    Metadata:
+      encoder         : Lavc58.70.100 flac
+size=   43896kB time=00:14:23.61 bitrate= 416.4kbits/s speed=   1x     
+video:0kB audio:43887kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.018442%
+root@Joys-MacBook-Pro /p/v/root# 
