@@ -1,0 +1,763 @@
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: @(#)PROGRAM:Install  PROJECT:Install-1000
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: @(#)PROGRAM:Installer  PROJECT:Installer-1102
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Hardware: MacBookPro18,2 @ 0 MHz (x 10), 65536 MB RAM
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Running OS Build: macOS 12.2 (21D49)
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: USER=jin
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: __CFBundleIdentifier=com.apple.installer
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: COMMAND_MODE=unix2003
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: LOGNAME=jin
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: PATH=/usr/bin:/bin:/usr/sbin:/sbin
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.Fzzsnx0mtz/Listeners
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: SHELL=/bin/zsh
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: HOME=/Users/jin
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: __CF_USER_TEXT_ENCODING=0x1F5:0x19:0x34
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: TMPDIR=/var/folders/65/jw8ljz6n6_xb41h0xczzm1c80000gn/T/
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: XPC_SERVICE_NAME=application.com.apple.installer.1152921500312165612.1152921500312165617
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Env: XPC_FLAGS=0x0
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Microsoft Office  Installation Log
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Opened from: /Volumes/Joy S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Product archive /Volumes/Joy S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg trustLevel=350
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: External component packages (2) trustLevel=350
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: Could not load resource readme: (null)
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:04:59 JindeMacBook-Pro Installer[2838]: IFJS: Package Authoring Error: access to path "/Library/Managed Preferences/com.microsoft.office.plist" requires <options allow-external-scripts='true'>
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: PUKApplicationCloser: Done updateOpenAppsAndPlugIns!
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: PUKApplicationCloser: Alert did end with code: -1
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: ================================================================================
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: User picked Standard Install
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: Choices selected for installation:
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft Office"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft Word"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Word_Internal.pkg : com.microsoft.word : 16.57.22011101
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft Excel"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Excel_Internal.pkg : com.microsoft.excel : 16.57.22011101
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft PowerPoint"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_PowerPoint_Internal.pkg : com.microsoft.powerpoint : 16.57.22011101
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft OneNote"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_OneNote_Internal.pkg : com.microsoft.onenote.mac : 16.57.22011101
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft Outlook"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Outlook_Internal.pkg : com.microsoft.outlook : 16.57.22011101
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft OneDrive"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#OneDrive.pkg : com.microsoft.OneDrive : 21.220.1024
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft Teams"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Teams_osx_app.pkg : com.microsoft.teams : 1.00.416567
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 	安装: "Microsoft AutoUpdate"
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_autoupdate.pkg : com.microsoft.autoupdate : 4.43.22011101
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_licensing.pkg : com.microsoft.licensing : 16.57.22011101
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_fonts.pkg : com.microsoft.office.fonts : 0
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_frameworks.pkg : com.microsoft.office.frameworks : 0
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: 		Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_proofing.pkg : com.microsoft.office.proofing : 0
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: ================================================================================
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: It took 0.00 seconds to summarize the package selections.
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: location = file://localhost
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Word_Internal.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Excel_Internal.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_PowerPoint_Internal.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_OneNote_Internal.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Outlook_Internal.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#OneDrive.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Teams_osx_app.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_autoupdate.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_licensing.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_fonts.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_frameworks.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: -[IFDInstallController(Private) _buildInstallPlanReturningError:]: file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_proofing.pkg
+Feb  7 21:05:16 JindeMacBook-Pro Installer[2838]: Set authorization level to root for session
+Feb  7 21:05:19 JindeMacBook-Pro Installer[2838]: Administrator authorization granted.
+Feb  7 21:05:19 JindeMacBook-Pro Installer[2838]: Set authorization level to root for session
+Feb  7 21:05:19 JindeMacBook-Pro Installer[2838]: Will use PK session
+Feb  7 21:05:19 JindeMacBook-Pro Installer[2838]: Using authorization level of root for IFPKInstallElement
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: Starting installation:
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: Configuring volume "Macintosh HD"
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: Preparing disk for local booted install.
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: Free space on "Macintosh HD": 1.88 TB (1879405232128 bytes).
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: Create temporary directory "/var/folders/65/jw8ljz6n6_xb41h0xczzm1c80000gn/T//Install.28387Uvi92"
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: IFPKInstallElement (12 packages)
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: Current Path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:05:22 JindeMacBook-Pro installd[1033]: PackageKit: Adding client PKInstallDaemonClient pid=2838, uid=501 (/System/Library/CoreServices/Installer.app/Contents/MacOS/Installer)
+Feb  7 21:05:22 JindeMacBook-Pro Installer[2838]: PackageKit: Enqueuing install with framework-specified quality of service (utility)
+Feb  7 21:05:22 JindeMacBook-Pro installd[1033]: PackageKit: Set reponsibility for install to 2838
+Feb  7 21:05:23 JindeMacBook-Pro installd[1033]: PackageKit: ----- Begin install -----
+Feb  7 21:05:23 JindeMacBook-Pro installd[1033]: PackageKit: request=PKInstallRequest <12 packages, destination=/>
+Feb  7 21:05:23 JindeMacBook-Pro installd[1033]: PackageKit: packages=(
+	    "PKLeopardPackage <id=com.microsoft.package.Microsoft_Word.app, version=16.57.22011101, url=file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Word_Internal.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.package.Microsoft_Excel.app, version=16.57.22011101, url=file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Excel_Internal.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.package.Microsoft_PowerPoint.app, version=16.57.22011101, url=file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_PowerPoint_Internal.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.package.Microsoft_OneNote.app, version=16.57.22011101, url=file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_OneNote_Internal.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.package.Microsoft_Outlook.app, version=16.57.22011101, url=file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Outlook_Internal.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.OneDrive, version=21.220.1024, url=file:///Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#OneDrive.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.teams, version=1.00.416567, url=file:///Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Teams_osx_app.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.package.Microsoft_AutoUpdate.app, version=4.43.22011101, url=file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_autoupdate.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.pkg.licensing, version=16.57.22011101, url=file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_licensing.pkg>",
+	    "PKLeopardPackage <id=com.microsoft.package.DFonFeb  7 21:05:26 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Word_Internal.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Applications, uid=0)
+Feb  7 21:05:32 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Excel_Internal.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Applications, uid=0)
+Feb  7 21:05:36 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_PowerPoint_Internal.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Applications, uid=0)
+Feb  7 21:05:38 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_OneNote_Internal.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Applications, uid=0)
+Feb  7 21:05:39 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Microsoft_Outlook_Internal.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Applications, uid=0)
+Feb  7 21:05:41 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file:///Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#OneDrive.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Applications, uid=0)
+Feb  7 21:05:44 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file:///Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Teams_osx_app.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Applications, uid=0)
+Feb  7 21:05:45 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_autoupdate.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/Library/Application Support/Microsoft/MAU2.0, uid=0)
+Feb  7 21:05:45 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office16_all_licensing.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root, uid=0)
+Feb  7 21:05:46 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_fonts.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/private/tmp/com.microsoft.package.DFonts, uid=0)
+Feb  7 21:05:52 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_frameworks.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/private/tmp/com.microsoft.package.Frameworks, uid=0)
+Feb  7 21:06:03 JindeMacBook-Pro installd[1033]: PackageKit: Extracting file://localhost/Volumes/Joy%20S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg#Office_proofing.pkg (destination=/Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root/private/tmp/com.microsoft.package.Proofing_Tools, uid=0)
+Feb  7 21:06:07 JindeMacBook-Pro installd[1033]: PackageKit: prevent user idle system sleep
+Feb  7 21:06:07 JindeMacBook-Pro installd[1033]: PackageKit: suspending backupd
+Feb  7 21:06:08 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Word.app.K0BMfi
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Word.app.K0BMfi
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:08 JindeMacBook-Pro install_monitor[3085]: Temporarily excluding: /AppleInternal, /Applications, /Library, /System, /bin, /private, /sbin, /usr
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:08 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Excel.app.IcRbW0
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Excel.app.IcRbW0
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:08 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_PowerPoint.app.NzlFcW
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_PowerPoint.app.NzlFcW
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:08 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_OneNote.app.193N8N
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_OneNote.app.193N8N
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:08 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Outlook.app.2gva8C
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Outlook.app.2gva8C
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:08 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.OneDrive.n5WBCc
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.OneDrive.n5WBCc
+Feb  7 21:06:08 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:09 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.teams.JIAdPe
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.teams.JIAdPe
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: ./preinstall: running preinstall script...
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: ./preinstall: installd pid: 3086
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: ./preinstall: /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.teams.JIAdPe/preinstall: line 38: APP_PATH: command not found
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: ./preinstall: preinstall script completed.
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:09 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./preinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_AutoUpdate.app.nXRK27
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "preinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_AutoUpdate.app.nXRK27
+Feb  7 21:06:09 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:10 JindeMacBook-Pro package_script_service[3086]: ./preinstall: Warning: Expecting a LaunchDaemons path since the command was ran as root. Got LaunchAgents instead.
+Feb  7 21:06:10 JindeMacBook-Pro package_script_service[3086]: ./preinstall: `launchctl bootout` is a recommended alternative.
+Feb  7 21:06:10 JindeMacBook-Pro package_script_service[3086]: ./preinstall: /Library/LaunchAgents/com.microsoft.update.agent.plist: No such file or directory
+Feb  7 21:06:10 JindeMacBook-Pro package_script_service[3086]: ./preinstall: Unload failed: 2: No such file or directory
+Feb  7 21:06:10 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:10 JindeMacBook-Pro installd[1033]: PackageKit: Using trashcan path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/PKInstallSandboxTrash/A0D41824-684A-45FC-BF71-F62BE26C7D89.sandboxTrash for sandbox /Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox
+Feb  7 21:06:12 JindeMacBook-Pro installd[1033]: PackageKit: PKInformSystemPolicyInstallOperation failed with error:向门禁注册安装时发生错误。
+Feb  7 21:06:12 JindeMacBook-Pro installd[1033]: PackageKit: Shoving /Library/InstallerSandboxes/.PKInstallSandboxManager/A0D41824-684A-45FC-BF71-F62BE26C7D89.activeSandbox/Root (3 items) to /
+Feb  7 21:06:12 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Word.app.K0BMfi
+Feb  7 21:06:12 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Word.app.K0BMfi
+Feb  7 21:06:12 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:13 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Excel.app.IcRbW0
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Excel.app.IcRbW0
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:13 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_PowerPoint.app.NzlFcW
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_PowerPoint.app.NzlFcW
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:13 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_OneNote.app.193N8N
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_OneNote.app.193N8N
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:13 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Outlook.app.2gva8C
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_Outlook.app.2gva8C
+Feb  7 21:06:13 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:14 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:14 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.OneDrive.n5WBCc
+Feb  7 21:06:14 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.OneDrive.n5WBCc
+Feb  7 21:06:14 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:14 JindeMacBook-Pro package_script_service[3086]: ./postinstall: File Doesn't Exist, Will Create: /Library/LaunchDaemons/com.microsoft.OneDriveUpdaterDaemon.plist
+Feb  7 21:06:14 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Initializing Plist...
+Feb  7 21:06:14 JindeMacBook-Pro package_script_service[3086]: ./postinstall: File Doesn't Exist, Will Create: /Library/LaunchAgents/com.microsoft.OneDriveStandaloneUpdater.plist
+Feb  7 21:06:14 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Initializing Plist...
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: File Doesn't Exist, Will Create: /Library/LaunchDaemons/com.microsoft.OneDriveStandaloneUpdaterDaemon.plist
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Initializing Plist...
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:15.225 defaults[3339:78411] 
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: The domain/default pair of (/Users/jin/Library/Preferences/com.microsoft.OneDriveUpdater.plist, Tier) does not exist
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:15 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.teams.JIAdPe
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.teams.JIAdPe
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: running postinstall script...
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: installd pid: 3086
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Creating a new launchd plist file and loading it
+Feb  7 21:06:15 JindeMacBook-Pro package_script_service[3086]: ./postinstall: { Label = "com.microsoft.teams.TeamsUpdaterDaemon"; MachServices = { "com.microsoft.teams.TeamsUpdaterDaemon" = 1; }; Program = "/Applications/Microsoft Teams.app/Contents/TeamsUpdaterDaemon.xpc/Contents/MacOS/TeamsUpdaterDaemon"; }
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- Instantiated fileLogger
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- Instantiated logger
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- inside contextInstall.py
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- File is not a contextual installer.
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- inside startTeams.py
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- Parsed args:
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: is_managed_deploy: 0
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: killed_teams: 0
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: plist_contents: {
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall:     Label = "com.microsoft.teams.TeamsUpdaterDaemon";
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall:     MachServices =     {
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall:         "com.microsoft.teams.TeamsUpdaterDaemon" = 1;
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall:     };
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall:     Program = "/Applications/Microsoft Teams.app/Contents/TeamsUpdaterDaemon.xpc/Contents/MacOS/TeamsUpdaterDaemon";
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: }
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- pkg_path: /Volumes/Joy S2T/Microsoft_Office_16.57.22011101_BusinessPro_Installer.pkg
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- Not launching Teams app
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- Succeeded in setting key:PkgPreinstallKilledTeams to value:None
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- Succeeded in setting key:IsManagedDeployed to value:False
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:16 [Apple Installer - PythonScripts] <3390> -- INFO -- Succeeded in setting key:DistributionSource to value:PROPLUS
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: postinstall script completed.
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:16 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_AutoUpdate.app.nXRK27
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Microsoft_AutoUpdate.app.nXRK27
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: /Library/LaunchDaemons/com.microsoft.autoupdate.helpertool.plist: No such file or directory
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Unload failed: 2: No such file or directory
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: /Library/LaunchDaemons/com.microsoft.autoupdate.helper.plist: No such file or directory
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Unload failed: 2: No such file or directory
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Warning: Expecting a LaunchDaemons path since the command was ran as root. Got LaunchAgents instead.
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: `launchctl bootout` is a recommended alternative.
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: /Library/LaunchAgents/com.microsoft.update.agent.plist: No such file or directory
+Feb  7 21:06:16 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Unload failed: 2: No such file or directory
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:21.597 defaults[3431:78713] 
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: ./postinstall: The domain/default pair of (com.microsoft.autoupdate2, ReopenAfterGUIInstall) does not exist
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: ./postinstall: 2022-02-07 21:06:21.627 defaults[3433:78718] 
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Domain (com.microsoft.autoupdate2) not found.
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: ./postinstall: Defaults have not been changed.
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:21 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.pkg.licensing.JQOBF0
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.pkg.licensing.JQOBF0
+Feb  7 21:06:21 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:22 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:22 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.DFonts.CCnIe7
+Feb  7 21:06:22 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.DFonts.CCnIe7
+Feb  7 21:06:22 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:25 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:25 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Frameworks.RmPACy
+Feb  7 21:06:25 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Frameworks.RmPACy
+Feb  7 21:06:25 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:53 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:53 JindeMacBook-Pro installd[1033]: PackageKit (package_script_service): Preparing to execute script "./postinstall" in /private/tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Proofing_Tools.oZtV5X
+Feb  7 21:06:53 JindeMacBook-Pro package_script_service[3086]: PackageKit: Executing script "postinstall" in /tmp/PKInstallSandbox.nMH5CR/Scripts/com.microsoft.package.Proofing_Tools.oZtV5X
+Feb  7 21:06:53 JindeMacBook-Pro package_script_service[3086]: Set responsibility to pid: 2838, responsible_path: /System/Library/CoreServices/Installer.app/Contents/MacOS/Installer
+Feb  7 21:06:56 JindeMacBook-Pro package_script_service[3086]: Responsibility set back to self.
+Feb  7 21:06:56 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Microsoft_Word.app to /
+Feb  7 21:06:56 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Microsoft_Excel.app to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Microsoft_PowerPoint.app to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Microsoft_OneNote.app to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Microsoft_Outlook.app to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.OneDrive to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.teams to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Microsoft_AutoUpdate.app to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.pkg.licensing to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.DFonts to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Frameworks to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: PackageKit: Writing receipt for com.microsoft.package.Proofing_Tools to /
+Feb  7 21:06:57 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Word.app/Contents/SharedSupport/Text Converters/Microsoft Excel 2.x-11.bundle/Contents/MacOS/Microsoft Excel 2.x-11
+Feb  7 21:07:08 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word
+Feb  7 21:07:19 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Word.app/Contents/SharedSupport/Open XML for Excel.app/Contents/MacOS/Open XML for Excel
+Feb  7 21:07:19 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Word.app/Contents/SharedSupport/Text Converters/Recover Text Converter.bundle/Contents/MacOS/Recover Text Converter
+Feb  7 21:07:19 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Word.app/Contents/SharedSupport/Microsoft Error Reporting.app/Contents/MacOS/Microsoft Error Reporting
+Feb  7 21:07:19 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Word.app/Contents/Plugins/WordPDE.plugin/Contents/MacOS/WordPDE
+Feb  7 21:07:31 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/MacOS/Microsoft Excel
+Feb  7 21:07:31 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft Error Reporting.app/Contents/MacOS/Microsoft Error Reporting
+Feb  7 21:07:31 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/MacOS/Microsoft.Mashup.Container
+Feb  7 21:07:31 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libMacWebDialogWindow.dylib
+Feb  7 21:07:31 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libMicrosoft.Mashup.OleDbInterop.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libNativeInteropShims.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libSystem.Globalization.Native.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libSystem.IO.Compression.Native.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libSystem.Native.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libSystem.Net.Security.Native.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libSystem.Security.Cryptography.Native.Apple.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libSystem.Security.Cryptography.Native.OpenSsl.dylib
+Feb  7 21:07:32 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libclrjit.dylib
+Feb  7 21:07:33 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libcoreclr.dylib
+Feb  7 21:07:33 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libdbgshim.dylib
+Feb  7 21:07:33 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libhostfxr.dylib
+Feb  7 21:07:33 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libhostpolicy.dylib
+Feb  7 21:07:33 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libmscordaccore.dylib
+Feb  7 21:07:34 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/Contents/SharedSupport/libmscordbi.dylib
+Feb  7 21:07:39 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft PowerPoint.app/Contents/MacOS/Microsoft PowerPoint
+Feb  7 21:07:51 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft PowerPoint.app/Contents/SharedSupport/Open XML for Excel.app/Contents/MacOS/Open XML for Excel
+Feb  7 21:07:51 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft PowerPoint.app/Contents/SharedSupport/Microsoft Error Reporting.app/Contents/MacOS/Microsoft Error Reporting
+Feb  7 21:07:51 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft OneNote.app/Contents/PlugIns/OneNoteShareExtension_Mac.appex/Contents/MacOS/OneNoteShareExtension_Mac
+Feb  7 21:07:51 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft OneNote.app/Contents/SharedSupport/Microsoft Error Reporting.app/Contents/MacOS/Microsoft Error Reporting
+Feb  7 21:07:55 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft OneNote.app/Contents/MacOS/Microsoft OneNote
+Feb  7 21:07:55 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft OneNote.app/Contents/SharedSupport/Microsoft Relauncher
+Feb  7 21:07:55 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/Frameworks/CalendarWidgetKit.framework/Versions/A/CalendarWidgetKit
+Feb  7 21:07:55 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/Library/Spotlight/Microsoft Outlook Spotlight Importer.mdimporter/Contents/MacOS/Microsoft Outlook Spotlight Importer
+Feb  7 21:07:55 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/SharedSupport/Outlook Profile Manager.app/Contents/MacOS/Outlook Profile Manager
+Feb  7 21:07:56 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/SharedSupport/Microsoft Error Reporting.app/Contents/MacOS/Microsoft Error Reporting
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/SharedSupport/Microsoft Relauncher
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/Frameworks/CalendarWidgetModelKit.framework/Versions/A/CalendarWidgetModelKit
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Outlook.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/FinderSync.appex/Contents/MacOS/FinderSync
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Library/LoginItems/Launcher Disabler.app/Contents/MacOS/LauncherDisabler
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtQmlModels.framework/Versions/5/QtQmlModels
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtDBus.framework/Versions/5/QtDBus
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/MSCommon.framework/Versions/A/MSCommon
+Feb  7 21:07:59 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:00 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/MSP2P.framework/Versions/A/MSP2P
+Feb  7 21:08:00 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/OneDriveTelemetryExperimentalMac.framework/Versions/A/OneDriveTelemetryExperimentalMac
+Feb  7 21:08:00 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/MacOS/OneDrive File Provider
+Feb  7 21:08:00 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtMacExtras.framework/Versions/5/QtMacExtras
+Feb  7 21:08:00 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtQuickTemplates2.framework/Versions/5/QtQuickTemplates2
+Feb  7 21:08:01 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtGui.framework/Versions/5/QtGui
+Feb  7 21:08:01 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtNetwork.framework/Versions/5/QtNetwork
+Feb  7 21:08:01 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MacCrossPlatformUX.framework/Versions/A/MacCrossPlatformUX
+Feb  7 21:08:01 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Library/LoginItems/OneDrive Launcher.app/Contents/MacOS/OneDriveLauncher
+Feb  7 21:08:02 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive Updater.app/Contents/Frameworks/MSCommon.framework/Versions/A/MSCommon
+Feb  7 21:08:02 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive Updater.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:02 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive Updater.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:03 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive Updater.app/Contents/Frameworks/MSP2P.framework/Versions/A/MSP2P
+Feb  7 21:08:03 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive Updater.app/Contents/MacOS/OneDriveUpdater
+Feb  7 21:08:03 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtQmlWorkerScript.framework/Versions/5/QtQmlWorkerScript
+Feb  7 21:08:03 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtQuick.framework/Versions/5/QtQuick
+Feb  7 21:08:04 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSSyncEngine.framework/Versions/A/Frameworks/x86_64/libmip_core.dylib
+Feb  7 21:08:05 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSSyncEngine.framework/Versions/A/Frameworks/x86_64/libmip_file_sdk.dylib
+Feb  7 21:08:05 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSSyncEngine.framework/Versions/A/Frameworks/x86_64/libmip_protection_sdk.dylib
+Feb  7 21:08:05 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSSyncEngine.framework/Versions/A/Frameworks/x86_64/libmip_upe_sdk.dylib
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSSyncEngine.framework/Versions/A/MSSyncEngine
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MacQtViews.framework/Versions/A/MacQtViews
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdater.app/Contents/Frameworks/MSCommon.framework/Versions/A/MSCommon
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdater.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdater.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdater.app/Contents/Frameworks/MSP2P.framework/Versions/A/MSP2P
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdater.app/Contents/MacOS/OneDriveStandaloneUpdater
+Feb  7 21:08:07 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/PlaceholderManager.framework/Versions/A/PlaceholderManager
+Feb  7 21:08:08 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtCore.framework/Versions/5/QtCore
+Feb  7 21:08:08 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/PlaceholderManagerMB.framework/Versions/A/PlaceholderManagerMB
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtQml.framework/Versions/5/QtQml
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtQuickControls2.framework/Versions/5/QtQuickControls2
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/OneDriveTelemetryStableMac.framework/Versions/A/OneDriveTelemetryStableMac
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/Frameworks/PlaceholderManager.framework/Versions/A/PlaceholderManager
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/MacOS/StandaloneUpdaterDaemon
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtSvg.framework/Versions/5/QtSvg
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive File Handler.app/Contents/Frameworks/MSCommon.framework/Versions/A/MSCommon
+Feb  7 21:08:09 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive File Handler.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:11 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive File Handler.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:11 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive File Handler.app/Contents/Frameworks/MSP2P.framework/Versions/A/MSP2P
+Feb  7 21:08:11 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive File Handler.app/Contents/MacOS/OneDrive File Handler
+Feb  7 21:08:12 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/OneDriveTelemetryExperimentalMac.framework/Versions/A/OneDriveTelemetryExperimentalMac
+Feb  7 21:08:12 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtWidgets.framework/Versions/5/QtWidgets
+Feb  7 21:08:13 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDriveUpdaterDaemon.xpc/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:14 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDriveUpdaterDaemon.xpc/Contents/Frameworks/MSP2P.framework/Versions/A/MSP2P
+Feb  7 21:08:14 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDriveUpdaterDaemon.xpc/Contents/Frameworks/PlaceholderManager.framework/Versions/A/PlaceholderManager
+Feb  7 21:08:14 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDriveUpdaterDaemon.xpc/Contents/MacOS/OneDriveUpdaterDaemon
+Feb  7 21:08:14 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/DatabaseManager.framework/Versions/A/DatabaseManager
+Feb  7 21:08:14 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:14 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:15 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSP2P.framework/Versions/A/MSP2P
+Feb  7 21:08:15 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/OneDriveTelemetryStableMac.framework/Versions/A/OneDriveTelemetryStableMac
+Feb  7 21:08:15 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/PlaceholderManagerMB.framework/Versions/A/PlaceholderManagerMB
+Feb  7 21:08:15 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/MacOS/OneDrive
+Feb  7 21:08:15 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/imageformats/libqgif.dylib
+Feb  7 21:08:15 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/imageformats/libqjpeg.dylib
+Feb  7 21:08:15 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/imageformats/libqsvg.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/platforms/libqcocoa.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libmodelsplugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libmodelsplugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqquicklayoutsplugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqquicklayoutsplugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquick2plugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquick2plugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickcontrols2plugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickcontrols2plugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickcontrolsplugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickcontrolsplugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickextrasflatplugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickextrasflatplugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickextrasplugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquickextrasplugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquicktemplates2plugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libqtquicktemplates2plugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libwindowplugin.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/quick/libwindowplugin_debug.dylib
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/Frameworks/MSP2P.framework/Versions/A/MSP2P
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/MSCommon.framework/Versions/A/MSCommon
+Feb  7 21:08:16 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDrive File Launcher.app/Contents/MacOS/OneDrive File Launcher
+Feb  7 21:08:17 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:17 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/OneDriveUpdaterDaemon.xpc/Contents/Frameworks/MSP2P.framework/Versions/A/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:17 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/Frameworks/QtPrintSupport.framework/Versions/5/QtPrintSupport
+Feb  7 21:08:17 JindeMacBook-Pro installd[1033]: oahd translated /Applications/OneDrive.app/Contents/PlugIns/OneDrive File Provider.appex/Contents/Frameworks/DatabaseManager.framework/Versions/A/DatabaseManager
+Feb  7 21:08:17 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt
+Feb  7 21:08:18 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel
+Feb  7 21:08:18 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle
+Feb  7 21:08:18 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/ADAL.framework/Versions/A/ADAL
+Feb  7 21:08:37 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework
+Feb  7 21:08:37 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler
+Feb  7 21:08:37 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libEGL.dylib
+Feb  7 21:08:38 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libGLESv2.dylib
+Feb  7 21:08:38 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib
+Feb  7 21:08:39 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib
+Feb  7 21:08:39 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libvk_swiftshader.dylib
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/TeamsUpdaterDaemon.xpc/Contents/Frameworks/AriaOsXObjC.framework/Versions/A/AriaOsXObjC
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (GPU).app/Contents/MacOS/Microsoft Teams Helper (GPU)
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Plugin).app/Contents/MacOS/Microsoft Teams Helper (Plugin)
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper.app/Contents/MacOS/Microsoft Teams Helper
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/MacOS/Teams
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/@microsoft/fasttext-languagedetector/build/Release/fastText-languagedetector.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/@msteams/electron-modules-package-utils/build/Release/package-utils.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/@msteams/node-locale-info-provider/build/Release/node-locale-info-provider.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/adal-mac/build/Release/adal.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/keyboard-layout/build/Release/keyboard-layout-manager.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/keytar4/build/Release/keytar.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/media-hid/build/Release/media-hid.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/modern-osutils/build/Release/modern-osutils.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/native-utils-v2/build/Release/native-utils.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/native-utils/build/Release/native-utils.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/node-spellcheckr/build/Release/spellchecker.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/oneauth/lib/oneauth.node
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/ReactiveCocoa
+Feb  7 21:08:40 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/slimcore/bin/vcxpc.xpc/Contents/MacOS/vcxpc
+Feb  7 21:08:41 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Resources/app.asar.unpacked/node_modules/oneauth/build/OneAuth.framework/Versions/A/OneAuth
+Feb  7 21:08:41 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/TeamsUpdaterDaemon.xpc/Contents/MacOS/TeamsUpdaterDaemon
+Feb  7 21:08:41 JindeMacBook-Pro installd[1033]: oahd translated /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Renderer).app/Contents/MacOS/Microsoft Teams Helper (Renderer)
+Feb  7 21:08:41 JindeMacBook-Pro installd[1033]: oahd translated /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft Update Assistant.app/Contents/MacOS/Microsoft Update Assistant
+Feb  7 21:08:41 JindeMacBook-Pro installd[1033]: oahd translated /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/SharedSupport/Microsoft Error Reporting.app/Contents/MacOS/Microsoft Error Reporting
+Feb  7 21:08:41 JindeMacBook-Pro installd[1033]: oahd translated /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/Library/PrivilegedHelperTools/com.microsoft.autoupdate.helper
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: oahd translated /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft AutoUpdate
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: oahd translated /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/msupdate
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: oahd translated /Library/PrivilegedHelperTools/com.microsoft.office.licensingV2.helper
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OutlookOAuth.framework/Versions/A/OutlookOAuth for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftRichEdit.framework/Versions/A/MicrosoftRichEdit for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OLEAutomation.framework/Versions/A/OLEAutomation for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Visual Basic for Applications.framework/Versions/A/Visual Basic for Applications for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/rpcrt4.framework/Versions/A/rpcrt4 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/merp.framework/Versions/A/merp for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/FluentUI.framework/Versions/A/FluentUI for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/WLMGraphicsDevice.framework/Versions/A/WLMGraphicsDevice for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Xmllite.framework/Versions/A/Xmllite for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/XPG.framework/Versions/A/XPG for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/PowerLiftKit.framework/Versions/A/PowerLiftKit for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OfficeAddressBook.framework/Versions/A/OfficeAddressBook for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MSXML.framework/Versions/A/MSXML for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OutlookShadowAuth.framework/Versions/A/OutlookShadowAuth for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/CocoaUI.framework/Versions/A/CocoaUI for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/WLMKernel.framework/Versions/A/WLMKernel for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/msospectre.framework/Versions/A/msospectre for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OfficeArt.framework/Versions/A/OfficeArt for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/osfstorage2.framework/Versions/A/osfstorage2 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Oimg.framework/Versions/A/Oimg for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OcsClient.framework/Versions/A/OcsClient for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/WordMail.framework/Versions/A/WordMail for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OPF.framework/Versions/A/OPF for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OPF.framework/Versions/A/Resources/OPF_Common.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Uniscribe.framework/Versions/A/Uniscribe for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftCloudServices.framework/Versions/A/MicrosoftCloudServices for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/WinCrypto.framework/Versions/A/WinCrypto for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/ATP.framework/Versions/A/ATP.xll for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/WordSDKShim.framework/Versions/A/WordSDKShim for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftWebServices.framework/Versions/A/MicrosoftWebServices for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/mso40ui.framework/Versions/A/mso40ui for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/mso30.framework/Versions/A/mso30 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/mso99.framework/Versions/A/mso99 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/SmartArt.framework/Versions/A/SmartArt for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftPTLS7.framework/Versions/A/MicrosoftPTLS7 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libSQLServerSimbaODBC.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libmbupdx2009.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libmsix.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libntlm.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftAppKit.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftCloudKit.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftContacts.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftCore.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftCoreData.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftCoreFoundation.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftCoreGraphics.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftCoreImage.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftCoreLocation.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftDarwin.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftDispatch.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftFoundation.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftIOKit.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftMetal.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftObjectiveC.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftQuartzCore.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftXPC.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/libswiftos.dylib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftCredui.framework/Versions/A/MicrosoftCredui for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/mbukernel.framework/Versions/A/mbukernel for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/osf.framework/Versions/A/osf for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/EmailRendererKit.framework/Versions/A/EmailRendererKit for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MetEx.framework/Versions/A/MetEx for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OlkCalendarUIKit.framework/Versions/A/OlkCalendarUIKit for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/mso20.framework/Versions/A/mso20 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftProofing.framework/Versions/A/MicrosoftProofing for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/molc.framework/Versions/A/molc for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/SAExt.framework/Versions/A/SAExt for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Forms.framework/Versions/A/Forms for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/ai.framework/Versions/A/ai for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/COMBase.framework/Versions/A/COMBase for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OlkUIKit.framework/Versions/A/OlkUIKit for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftIvy.framework/Versions/A/MicrosoftIvy for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/ProofingUI.framework/Versions/A/ProofingUI for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/dwrite10.framework/Versions/A/dwrite10 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Chart.framework/Versions/A/Chart for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MSRightsManagement.framework/Versions/A/MSRightsManagement for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftConversionLibrary.framework/Versions/A/MicrosoftConversionLibrary for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftFBA.framework/Versions/A/MicrosoftFBA for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MsgrLibClient.framework/Versions/A/MsgrLibClient for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/mbuinstrument.framework/Versions/A/mbuinstrument for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OutlookRightsFramework.framework/Versions/A/OutlookRightsFramework for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/CalendarWidgetModelKit.framework/Versions/A/CalendarWidgetModelKit for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OutlookFoundation.framework/Versions/A/OutlookFoundation for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Hlink.framework/Versions/A/Hlink for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MsoCF.framework/Versions/A/MsoCF for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OLX.framework/Versions/A/OLX for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OutlookCore.framework/Versions/A/OutlookCore for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/ADAL4.framework/Versions/A/ADAL4 for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftFontLibrary.framework/Versions/A/MicrosoftFontLibrary for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Gfx.framework/Versions/A/Gfx for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/mbulocale.framework/Versions/A/mbulocale for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/WLMUser.framework/Versions/A/WLMUser for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/Netlib.framework/Versions/A/Netlib for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OLE.framework/Versions/A/OLE for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/OlkMsoHttpConnection.framework/Versions/A/OlkMsoHttpConnection for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftPTLS.framework/Versions/A/MicrosoftPTLS for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/osfcore.framework/Versions/A/osfcore for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/HxCore.framework/Versions/A/HxCore for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Frameworks/Frameworks/MicrosoftCSI.framework/Versions/A/MicrosoftCSI for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GalicianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/IndonesianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ArabicThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FinnishGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/TamilSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/NorwegianNynorskThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/HungarianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CzechSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/EstonianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SerbianCyrillicSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/AfrikaansSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/NorwegianBokmaalThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/BrazilianPortugueseThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CroatianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FarsiSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SetswanaSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FrenchSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/MacedonianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/NorwegianNynorskSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GermanSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SpanishHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FrenchGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SesothoSaLeboaSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GermanGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/NorwegianBokmaalGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/EnglishHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/TurkishSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/JapaneseProofing.proofingtool/Contents/MacOS/JapaneseProofing for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/EnglishSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DutchGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/LithuanianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/RussianHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/BrazilianPortugueseGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CatalanSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/KiswahiliSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GermanHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/PolishSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/PolishThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/NorwegianBokmaalHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GermanThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SerbianLatinSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GreekSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/HebrewSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/KazakhSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GujaratiSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/PolishGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/HungarianGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/RomanianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CatalanHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ItalianThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CatalanThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DutchSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ItalianHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/PolishHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DanishHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FinnishThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/MarathiSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/KoreanSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/TurkishThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/NorwegianNynorskHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FrenchHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/RussianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/BrazilianPortugueseHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/EnglishGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ItalianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CssFrenchSpeller.proofingtool/Contents/MacOS/Contextual Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CzechThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CssEnglishSpeller.proofingtool/Contents/MacOS/Contextual Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SwedishSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DanishThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/TurkishHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CzechHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/UkrainianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/TurkishGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/BulgarianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FinnishHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/MalaySpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/IberianPortugueseGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/IberianPortugueseHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ArabicSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FinnishSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/HebrewThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/LatvianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/IberianPortugueseThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DutchThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SpanishSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SwedishHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SwedishThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/KannadaSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/IberianPortugueseSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/RussianGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/LanguageIdentification.proofingtool/Contents/MacOS/LAD for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/NorwegianBokmaalSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DutchHyphenator.proofingtool/Contents/MacOS/GenericHyphenator for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ThaiSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SwedishGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/EnglishThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/IsiXhosaSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DanishSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/RussianThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CssSpanishSpeller.proofingtool/Contents/MacOS/Contextual Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CssGermanSpeller.proofingtool/Contents/MacOS/Contextual Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SlovakSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/DanishGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/BrazilianPortugueseSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/BasqueSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ArabicGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SpanishThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/IsiZuluSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/FrenchThesaurus.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/CzechGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GenericCssSpeller.proofingtool/Contents/MacOS/Contextual Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GenericGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GenericThesaurus7.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GenericThesaurus8.proofingtool/Contents/MacOS/GenericThesaurus for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/ItalianGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/SpanishGrammar.proofingtool/Contents/MacOS/Grammar for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/BosnianSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Could not open /private/tmp/com.microsoft.package.Proofing_Tools/Proofing Tools/GenericSpeller.proofingtool/Contents/MacOS/Speller for AOT translation
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Translated 389 binaries.
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Word.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Word.app/Contents/SharedSupport/Open XML for Excel.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Word.app/Contents/SharedSupport/Microsoft Error Reporting.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Excel.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft Error Reporting.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft PowerPoint.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft PowerPoint.app/Contents/SharedSupport/Open XML for Excel.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft PowerPoint.app/Contents/SharedSupport/Microsoft Error Reporting.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft OneNote.app/Contents/SharedSupport/Microsoft Error Reporting.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft OneNote.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Outlook.app/Contents/SharedSupport/Outlook Profile Manager.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Outlook.app/Contents/SharedSupport/Microsoft Error Reporting.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Outlook.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/OneDrive.app/Contents/Library/LoginItems/Launcher Disabler.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/OneDrive.app/Contents/Library/LoginItems/OneDrive Launcher.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/OneDrive.app/Contents/OneDrive Updater.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/OneDrive.app/Contents/StandaloneUpdater.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/OneDrive.app/Contents/OneDrive File Handler.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/OneDrive.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/OneDrive.app/Contents/OneDrive File Launcher.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Teams.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (GPU).app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Plugin).app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Applications/Microsoft Teams.app/Contents/Frameworks/Microsoft Teams Helper (Renderer).app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft Update Assistant.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/SharedSupport/Microsoft Error Reporting.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Touched bundle /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft AU Daemon.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: Installed "Microsoft Office" ()
+Feb  7 21:08:42 JindeMacBook-Pro install_monitor[3085]: Re-included: /AppleInternal, /Applications, /Library, /System, /bin, /private, /sbin, /usr
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: releasing backupd
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: allow user idle system sleep
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: ----- End install -----
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: 199.5s elapsed install time
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Cleared responsibility for install from 2838.
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Cleared permissions on Installer.app
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Running idle tasks
+Feb  7 21:08:42 JindeMacBook-Pro installd[1033]: PackageKit: Done with sandbox removals
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Word.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Word.app/Contents/SharedSupport/Open%20XML%20for%20Excel.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Word.app/Contents/SharedSupport/Microsoft%20Error%20Reporting.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Excel.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Excel.app/Contents/SharedSupport/Microsoft%20Error%20Reporting.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Excel.app/Contents/SharedSupport/Microsoft.Mashup.Container.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20PowerPoint.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20PowerPoint.app/Contents/SharedSupport/Open%20XML%20for%20Excel.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20PowerPoint.app/Contents/SharedSupport/Microsoft%20Error%20Reporting.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20OneNote.app/Contents/SharedSupport/Microsoft%20Error%20Reporting.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20OneNote.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Outlook.app/Contents/SharedSupport/Outlook%20Profile%20Manager.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Outlook.app/Contents/SharedSupport/Microsoft%20Error%20Reporting.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Outlook.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/OneDrive.app/Contents/Library/LoginItems/Launcher%20Disabler.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/OneDrive.app/Contents/Library/LoginItems/OneDrive%20Launcher.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/OneDrive.app/Contents/OneDrive%20Updater.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/OneDrive.app/Contents/StandaloneUpdater.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/OneDrive.app/Contents/OneDrive%20File%20Handler.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/OneDrive.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/OneDrive.app/Contents/OneDrive%20File%20Launcher.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Teams.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Teams.app/Contents/Frameworks/Microsoft%20Teams%20Helper%20(GPU).app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Teams.app/Contents/Frameworks/Microsoft%20Teams%20Helper%20(Plugin).app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Teams.app/Contents/Frameworks/Microsoft%20Teams%20Helper.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Applications/Microsoft%20Teams.app/Contents/Frameworks/Microsoft%20Teams%20Helper%20(Renderer).app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Library/Application%20Support/Microsoft/MAU2.0/Microsoft%20AutoUpdate.app/Contents/MacOS/Microsoft%20Update%20Assistant.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Library/Application%20Support/Microsoft/MAU2.0/Microsoft%20AutoUpdate.app/Contents/SharedSupport/Microsoft%20Error%20Reporting.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: PackageKit: Registered bundle file:///Library/Application%20Support/Microsoft/MAU2.0/Microsoft%20AutoUpdate.app/ for uid 501
+Feb  7 21:08:43 JindeMacBook-Pro Installer[2838]: Bundle path file:///Library/Application%20Support/Microsoft/MAU2.0/Microsoft%20AutoUpdate.app/Contents/MacOS/Microsoft%20AU%20Daemon.app/ is not an application
+Feb  7 21:08:43 JindeMacBook-Pro installd[1033]: PackageKit: Removing client PKInstallDaemonClient pid=2838, uid=501 (/System/Library/CoreServices/Installer.app/Contents/MacOS/Installer)
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: Running install actions
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: Removing temporary directory "/var/folders/65/jw8ljz6n6_xb41h0xczzm1c80000gn/T//Install.28387Uvi92"
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: Finalize disk "Macintosh HD"
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: Notifying system of updated components
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: 
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: **** Summary Information ****
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]:   Operation      Elapsed time
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: -----------------------------
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]:        disk      0.02 seconds
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]:      script      0.00 seconds
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]:        zero      0.00 seconds
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]:     install      202.17 seconds
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]:     -total-      202.19 seconds
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: 
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: IFDInstallController 3CA46C0 state = 5
+Feb  7 21:08:44 JindeMacBook-Pro Installer[2838]: Displaying 'Install Succeeded' UI.
+Feb  7 21:16:16 JindeMacBook-Pro installd[1033]: PackageKit: systemSoftware is being set to NO because it can't modify rootless files
